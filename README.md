@@ -6,10 +6,10 @@
   - [Octopus open source C2 framwork](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA)
 - <b>Centralized Logging with Splunk and Rsyslog</b>
   - [(Ubuntu server, Splunk SIEM, Rsyslog)](https://github.com/Hacosta21)
-///- <b>PowerShell</b>
+
  
   
-///- <b>Bash Scripts</b>
+- <b>Bash Scripts</b>
 
   
 [<img align="left" alt="Hacosta21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
