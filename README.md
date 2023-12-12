@@ -12,3 +12,8 @@
 - <b>Bash Scripts</b>
   - [Ransomware Proof of Concept (Encrypter)](github.com/Hacosta21/Hacosta21)
   
+
+
+[twitter]: [https://twitter.com/joshmadakor](https://twitter.com/Humbert_0041)
+[linkedin]: https://www.linkedin.com/in/humbertoacosta
+
