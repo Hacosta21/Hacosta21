@@ -7,7 +7,7 @@
 - <b>Centralized Logging with Splunk and Rsyslog</b>
   - [(Ubuntu server, Splunk SIEM, Rsyslog)](https://github.com/Hacosta21)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Hacosta21)
   
 - <b>Bash Scripts</b>
   - [Ransomware Proof of Concept (Encrypter)](github.com/Hacosta21/Hacosta21)
