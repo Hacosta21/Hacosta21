@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Threat Hunting Lab Analyzing C2 traffic and Malware </b>
-  - [Octopus open source C2 framwork](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA)
+  - [Octopus open source C2 framework](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA)
 - <b>Centralized Logging with Splunk and Rsyslog</b>
   - [(Ubuntu server, Splunk SIEM, Rsyslog)](https://github.com/Hacosta21)
 
