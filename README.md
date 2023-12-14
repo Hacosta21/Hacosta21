@@ -4,7 +4,7 @@
 
 - <b> Analyzing C2 traffic and Malware </b>
   - [Octopus open source C2 framework](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA)
-- <b>BASH Scripts</b>
+- <b>Bash Scripts</b>
   - [Scripts](https://github.com/Hacosta21)
 
  
