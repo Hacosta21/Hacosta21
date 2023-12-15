@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Analyzing C2 traffic and Malware </b>
+  - [Zeus trojan malware](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA)
   - [Octopus open source C2 framework](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA)
 - <b>Bash Scripts</b>
   - [Scripts](https://github.com/Hacosta21)
