@@ -6,7 +6,7 @@
   - [Zeus trojan malware](https://github.com/Hacosta21/Zeus-Trojan)
   - [Octopus open source C2 framework](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA)
  
-- <b>Microsoft Sentinel</b>
+- <b>Microsoft Azure Sentinel Honeypot</b>
 
 
 - <b>Bash Scripts</b>
