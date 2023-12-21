@@ -7,7 +7,7 @@
   - [Octopus open source C2 framework](https://github.com/Hacosta21/Threat-Hunting-with-Zeek-and-RITA)
  
 - <b> Cloud Honeypot</b>
-  - [Vunerable Windows 10 pro instance with log analytics and Azure Sentinel](https://github.com/Hacosta21/Honeypot).
+  - [Vunerable Windows 10 pro instance with log analytics and Microsoft Sentinel SIEM](https://github.com/Hacosta21/Honeypot).
 
 
 - <b>Bash Scripts</b>
