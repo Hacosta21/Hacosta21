@@ -3,7 +3,7 @@
 
 - <b>Threat Hunting C2 and Malware</b>
   - [Zeus](https://github.com/Hacosta21/Zeus-Trojan)
-  - [Octopus ssfdsfdsfdsfsd](https://github.com/Hacosta21/Octopus-C2-framework)
+  - [Octopus C2 Framework](https://github.com/Hacosta21/Octopus-C2-framework)
   - [#####################](https://github.################)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
