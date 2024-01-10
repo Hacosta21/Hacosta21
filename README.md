@@ -5,8 +5,8 @@
   - [Zeus](https://github.com/Hacosta21/Zeus-Trojan)
   - [Octopus C2 Framework](https://github.com/Hacosta21/Octopus-C2-framework)
     
-
- - <b>Cyber Honeypot with Azure Sentinal SIEM</b>
+ - <b>Cloud Projects</b>
+     -[Cyber Honeypot with Azure Sentinal SIEM (https://github.com/Hacosta21/Cyber-Honeypot)
   
 
 
