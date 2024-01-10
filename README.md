@@ -6,7 +6,8 @@
   - [Octopus C2 Framework](https://github.com/Hacosta21/Octopus-C2-framework)
     
 
- 
+ <b>Cyber Honeypot with Azure Sentinal SIEM</b>
+  
 
 
 
