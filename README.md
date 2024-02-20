@@ -1,4 +1,4 @@
-
+- <b>Threat hunting and information gathering with Velociraptor DFIR.</b>
 
 
 - <b>Threat Hunting C2 and Malware with Zeek and Real Intelligence Threat Analystics (RITA).</b>
