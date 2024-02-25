@@ -1,4 +1,4 @@
-- <b>Threat hunting and information gathering with </b>- [Velociraptor DFIR tool.]
+- <b>Threat hunting and information gathering with </b>- [Velociraptor DFIR tool.](https://github.com/Hacosta21/Zeus-Trojan)
 
 
 - <b>Threat hunting commmand and control servers (C2) and malware with Zeek and Real Intelligence Threat Analytics (RITA).</b>
