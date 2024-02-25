@@ -1,4 +1,4 @@
-- <b>Threat hunting and information gathering with - [Velociraptor DFIR tool.]</b>
+- <b>Threat hunting and information gathering with </b>- [Velociraptor DFIR tool.]
 
 
 - <b>Threat hunting commmand and control servers (C2) and malware with Zeek and Real Intelligence Threat Analytics (RITA).</b>
