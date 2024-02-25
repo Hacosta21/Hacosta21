@@ -1,5 +1,5 @@
-- <b>Threat hunting and information gathering with </b>- [Velociraptor DFIR tool.](https://github.com/Hacosta21/Velociraptor-DFIR)
-
+- <b>Threat hunting and information gathering with </b>- [Velociraptor DFIR tool.](https://github.com/Velocidex/velociraptor)
+  
   - [Process analysis](https://github.com/Hacosta21/Zeus-Trojan)
 
 
