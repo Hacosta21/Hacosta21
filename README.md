@@ -3,7 +3,7 @@
   - [Process analysis](https://github.com/Hacosta21/Process-analysis)
 
 
-- <b>Threat hunting commmand and control servers (C2) and malware with Zeek and Real Intelligence Threat Analytics (RITA).</b>
+- <b>Threat hunting C2 servers and malware with Zeek and Real Intelligence Threat Analytics (RITA).</b>
 
 
   - [Zeus](https://github.com/Hacosta21/Zeus-Trojan)
